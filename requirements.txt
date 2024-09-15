@@ -1,0 +1,7 @@
+flask
+flask-limiter
+sentence-transformers
+pymongo
+requests
+beautifulsoup4
+redis
